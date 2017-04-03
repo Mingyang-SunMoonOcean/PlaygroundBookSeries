@@ -1,4 +1,4 @@
-# PlaygroundBookSeries
+# Playground Book Series
 This repository is for my series of Playground Books. All Playground Books are written in Swift and can be run on iPad App Playground. For Playground Book Format Reference, visit: https://developer.apple.com/library/content/documentation/Xcode/Conceptual/swift_playgrounds_doc_format/ .
 
 
