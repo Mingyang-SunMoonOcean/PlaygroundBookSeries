@@ -12,5 +12,10 @@ Playground books in this repository can be used by beginner developers to learn 
  Language: Swift 3.0.<br />
 # How To Run On iPad
 1. Download Playgrounds app from the App Store<br />
+![alt tag](https://lh3.googleusercontent.com/-hmqxl9j-UJE/V9knLRCExWI/AAAAAAAAXII/EmA4s_BZeJw/s2048-no/IMG_0296.PNG)
 2. Open AirDrop on your Mac and share your playgroundbook with your iPad.<br />
-3. Open the Playground book!
+![alt tag](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/osx/elcapitan-airdrop-progress-sending.jpg)
+3. Open the Playground book on the shelf!
+![alt tag](https://lh3.googleusercontent.com/-GEYyiUzHCi4/V9ktl_bvJgI/AAAAAAAAXI0/7QvX_boQY9g/s2048-no/IMG_0300.PNG)
+
+
